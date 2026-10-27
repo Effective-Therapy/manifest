@@ -16,7 +16,7 @@
     "@solidjs/meta": "^0.29.4",
     "@solidjs/router": "^0.16.2",
     "better-auth": "1.6.25",
-    "dompurify": "^3.4.12",
+    "dompurify": "^3.4.17",
     "highlight.js": "^11.11.1",
     "manifest-shared": "*",
     "marked": "^18.0.7",
